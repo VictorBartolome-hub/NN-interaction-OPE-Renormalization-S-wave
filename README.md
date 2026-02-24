@@ -6,5 +6,4 @@ To obtain physical observables, the Lippmann–Schwinger equation (LSE) for the 
 
 In addition to the analytical framework, the project includes a numerical solution implemented in Fortran (the program can be found in the corresponding folder of the repository). The main objective of this numerical implementation is to reproduce the experimental phase-shift data associated with the on-shell scattering matrix. Special attention is given to achieving high numerical precision in the extraction of physical information. Low-energy constants and relevant parameters are determined using the residue theorem
 
-📄 Report available here: [PDF](FinalDegreeProyect_En.pdf)
-📄 Trabajo disponible aquí: [PDF](TFG_Spanish.pdf)
+
